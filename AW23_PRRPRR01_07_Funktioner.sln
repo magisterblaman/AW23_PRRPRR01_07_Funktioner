@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AW23_PRRPRR01_07_Funktioner", "AW23_PRRPRR01_07_Funktioner\AW23_PRRPRR01_07_Funktioner.csproj", "{211848DA-256D-481B-BAC6-6A75093BA946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211848DA-256D-481B-BAC6-6A75093BA946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211848DA-256D-481B-BAC6-6A75093BA946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211848DA-256D-481B-BAC6-6A75093BA946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211848DA-256D-481B-BAC6-6A75093BA946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4435347-1407-432C-B7FE-08CA5C404AC7}
+	EndGlobalSection
+EndGlobal
